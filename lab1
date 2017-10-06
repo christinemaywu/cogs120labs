@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hello!</title>
+  </head>
+  <body>
+    <p>Today is a beautiful day!</p>
+    <a href="https://www.instagram.com/christinemaywu/">Go check out this Instagram page</a>
+    <img src="http://www.t2day.com/ebay/Baby_Doll_Home_Decor_Plush_Toys/Home_Decor_Baby_Doll_Decorative_Pillow_Cute_Loaf_Bread_Shokupan_Plush_Soft_Stuffed_Toy_Kawaii_Japanese_Cotton_Food_Cushion_15_in_38_cm_Large_01.jpg">
+    <h3>Christine Wu</h3>
+    <ol>
+      <li>Fresh bread</li>
+      <li>Sticky buns</li>
+    </ol>
+  </body>
+</html>
